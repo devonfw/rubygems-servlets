@@ -1,0 +1,10 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+# Ignore Vim generated files
+*.sw*
+# Ignore IDE generated files
+.idea
+*.iml
